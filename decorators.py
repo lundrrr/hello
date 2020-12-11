@@ -10,3 +10,5 @@ def hello():
     print("Hello, world!")
 
 hello()
+
+#decorator can be used to check if a user is logged in etc
